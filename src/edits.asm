@@ -1,4 +1,4 @@
-@include
+include
 
 ; u1.0 checksum
 org $00FFDC
