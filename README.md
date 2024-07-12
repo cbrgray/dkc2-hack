@@ -12,5 +12,6 @@ To be assembled using [Asar](https://github.com/RPGHacker/asar), see the Makefil
 - manage your kongs on the map (by BlueImp)
 	- `L` to toggle between having 1 or 2 kongs
 	- `R` to change which kong is in front
+- quickly return to the overworld from a world map by pressing `select`
 
 you're probably gonna need a completed save file for now, sorry
